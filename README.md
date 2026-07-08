@@ -1,11 +1,9 @@
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDA4bWkwZzMxaW9sdHpteW1oNjNiY2pkNDNqdDVnd2d4ZjdwY3IzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vWst8QUOKAot6MHEZe/giphy.gif" width="50%">
-
-  <h1 align="center" style="font-size: 45px;">Hello, I'm Evgenii 👋</h1>
-
 <p align="center">
-  <img src="https://giphy.com" width="50%">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDA4bWkwZzMxaW9sdHpteW1oNjNiY2pkNDNqdDVnd2d4ZjdwY3IzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vWst8QUOKAot6MHEZe/giphy.gif" width="50%">
 </p>
+
+<h1 align="center" style="font-size: 45px;">Hello, I'm Evgenii 👋</h1>
+
 
 <!--
 **evgkkk/evgkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
