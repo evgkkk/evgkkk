@@ -3,6 +3,37 @@
 </p>
 
 <h1 align="center" style="font-size: 45px;">Hello, I'm Evgenii 👋</h1>
+### 🛠 Языки и инструменты:
+
+<p left="center">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+<p left="center">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+### 🤘 Умею:
+
+* Проведение A/B тестов и bootstrap, регрессионного и когортного анализа с помощью Python
+* SQL: вложенные запросы, оконные функции, конструкции case
+* Написание ad-hoc запросов
+* Работа над проектами в системе контроля версий Git
+* Формирование дашбордов
+* Расчет ключевых метрик продукта: ARPU, ARPPU, retention, conversion, churn rate
+* Автоматизация процессов через Airflow
 
 
 <!--
