@@ -53,7 +53,9 @@
 * Расчет ключевых метрик продукта: ARPU, ARPPU, retention, conversion, churn rate
 * Автоматизация процессов через Airflow
 
-
+<p align="center">
+  <img src="https://glitch.me" alt="Visitor Count" />
+</p>
 
 
 <!--
