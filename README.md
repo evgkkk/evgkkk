@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giphy.com" width="75%">
+  <img src="https://giphy.com/gifs/southpark-south-park-s25e2-vWst8QUOKAot6MHEZe" width="75%">
 </p>
 
 <h1 align="center" style="font-size: 45px;">Hello, I'm Evgenii 👋</h1>
