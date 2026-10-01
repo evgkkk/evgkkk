@@ -5,7 +5,7 @@
 <h1 align="center" style="font-size: 45px;">Hello, I'm Evgenii 👋</h1>
 
 ---
-💡 _Количество просмотров профиля: ![Просмотры](https://komarev.com)_
+💡 _Количество просмотров профиля: [![](https://glitch.me)](https://github.com)_
 
 ### 📖 Обо мне:
  
