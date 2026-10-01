@@ -5,7 +5,6 @@
 <h1 align="center" style="font-size: 45px;">Hello, I'm Evgenii 👋</h1>
 
 ---
-_Количество просмотров профиля: ![Просмотры](https://seeyoufarm.com)_
 
 ### 📖 Обо мне:
  
